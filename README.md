@@ -1,0 +1,1 @@
+# sylius_skeleton_plugin
